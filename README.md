@@ -7,5 +7,5 @@
 - Angular
 
 ### App-Url
-[Click ME!...](https://manik410.github.io/Todo-App-In-Angular/)
+[Click ME!...](https://manik410.github.io/Todo-App-Angular/)
 
